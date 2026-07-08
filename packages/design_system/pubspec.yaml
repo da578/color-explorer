@@ -1,0 +1,12 @@
+name: design_system
+description: "A design system package containing tokens and reusable UI components."
+version: 1.0.0
+publish_to: 'none'
+
+environment:
+  sdk: ^3.12.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  meta: 1.18.0

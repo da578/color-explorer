@@ -1,0 +1,13 @@
+name: color_explorer
+description: "A feature package for exploring colors"
+version: 1.0.0
+publish_to: 'none'
+
+environment:
+  sdk: ^3.12.2
+
+dependencies:
+  design_system:
+    path: ../../design_system
+  flutter:
+    sdk: flutter
